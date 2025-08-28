@@ -1,3 +1,4 @@
+# Arithmetic equations
 a = 8
 b = 2
 
@@ -7,4 +8,6 @@ d = a- b
 
 e = b + a
 
-print(f"a = {a}, b ={b}, c= {c}, d ={d}, e={e}")
+f = a ** 2
+
+print(f"a = {a}, b ={b}, c= {c}, d ={d}, e={e}, f = {f}")

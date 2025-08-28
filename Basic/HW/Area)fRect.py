@@ -1,3 +1,4 @@
+#Finding are of rectangle
 def area(h, w):
     return h * w
 
