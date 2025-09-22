@@ -1,0 +1,7 @@
+Linear Regression
+
+    -Mathematical Model:  y_cap = X.theta
+        -X:Feature matrix(with bias term) | theta: Parameters(weights and bias) | y_cap: Predicted values
+
+    -Calculus:
+        -Optimization of theta involves minimizing the loss function

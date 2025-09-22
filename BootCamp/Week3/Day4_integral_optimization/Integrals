@@ -1,0 +1,35 @@
+what are Integrals?
+    -Compute the area under a curve, responding accumulation.
+    -The definition integral of f(x) from a to b:
+
+Applications in ML:
+    - Probability Distributions
+    - Cost functions
+
+
+Optimisation Concepts
+
+-Local vs. Global Minima
+    -Local Minimum
+    -Global Minimum
+
+-Convex functions
+    -Ensure that any local minimum is also  a global minimum.
+    -
+
+-Non-Convex functions in ML
+    -Most neural networks loss functions.
+
+
+Stochastic Gradient Descent(SGD) and its Variants
+-What is Stochastic Gradient Descent?
+    -Optimisation algorithm that uses random subsets(mini-batches) of the data to
+     compute gradients and update parameters.
+
+-Why use SGDs?
+
+
+-Varients of SGD
+    -Mini-Batch SGD
+    -Momentum
+    -Adam Optimizer

@@ -1,0 +1,20 @@
+Gaussian(Normal) Distribution
+
+Bernoulli Distribution
+
+Binomial Distribution
+
+Poisson's Distribution
+
+Applications in ML:
+    Gaussian(Normal) Distribution
+        -Used in gaussian Naive Bayes and Kernel density estimation
+
+    Bernoulli Distribution
+        -Models binary classification problems.
+
+    Binomial Distribution
+        -Used in logistic regression to model binary outcomes.
+
+    Poisson Distribution
+        -Models count data
