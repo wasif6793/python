@@ -5,3 +5,29 @@ Linear Regression
 
     -Calculus:
         -Optimization of theta involves minimizing the loss function
+
+    -Statistics:
+        -Metrics like Mean Squared Error(MSE) and R^2 are used to evaluate model performance.
+
+
+
+Using Gradient Descent for Parameter Optimization
+    -Gradient Descent Algorithm
+        -Iteratively update theta using theta:= theta - alpha.delta J
+            -alpha: Learning rate
+
+    -Key Steps
+        -Initializing the parameters(theta)
+        -Compute gradients(delta)
+        -Update parameters using the gradient descent rule.
+
+
+Evaluating the Model Using Statistical Metrics
+    -Mean Square Error(MSE)
+        -Measures the average squared error.
+
+    -R-squared(R^2)
+        Measures how well the regression line explains the variance in the data.
+
+
+

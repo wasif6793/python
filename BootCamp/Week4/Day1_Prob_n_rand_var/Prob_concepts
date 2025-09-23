@@ -1,0 +1,40 @@
+Basic Probability concepts
+
+-Sample Space and Events
+    -Sample space: The set of all possible outcomes of a random experiment.
+    -Events: A subset of the sample space.
+
+-Conditional Probability
+    -The probability of an event A occurring, given that B has occurred.
+
+-Independence
+    -Two events A and B are independent if
+        - P(A intersection B) = P(A).P(B)
+
+
+Random VAriables
+
+    What are random variables?
+    -Maps outcomes of a random experiment to numerical values.
+    -Types: Discrete | Continuous
+
+Probability Mass Function(PMF)
+    -Probability distribution of a discrete random variable.
+
+Probability Density Function(PDF)
+    -Probability distribution of a continuous random variable.
+
+
+Expectation, Variance and Standard Deviation
+
+-Expectation(E[X])
+    -Weighted average of a random variable's possible values.
+    https://calcworkshop.com/continuous-probability-distribution/expected-value-variance-continuous-random-variable/
+
+-Variance(Var[X])
+    -Measures the spread of a random variable.
+        Var[X] = E[(X-E[X]^2)]
+
+-Standard Deviation(sigmaX)
+    -Square root of variance:
+        sigmaX = (Var[X])^1/2
